@@ -1,0 +1,4 @@
+spring:
+  redis:
+    host: test-redis-server
+    port: 6379
