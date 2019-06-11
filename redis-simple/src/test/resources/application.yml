@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: redis-simple
   redis:
     host: test-redis-server
     port: 6379
